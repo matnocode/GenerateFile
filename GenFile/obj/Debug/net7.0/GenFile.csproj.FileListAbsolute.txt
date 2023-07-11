@@ -1,0 +1,15 @@
+C:\GitHub\GenerateFile\GenFile\bin\Debug\net7.0\GenFile.exe
+C:\GitHub\GenerateFile\GenFile\bin\Debug\net7.0\GenFile.deps.json
+C:\GitHub\GenerateFile\GenFile\bin\Debug\net7.0\GenFile.runtimeconfig.json
+C:\GitHub\GenerateFile\GenFile\bin\Debug\net7.0\GenFile.dll
+C:\GitHub\GenerateFile\GenFile\bin\Debug\net7.0\GenFile.pdb
+C:\GitHub\GenerateFile\GenFile\obj\Debug\net7.0\GenFile.csproj.AssemblyReference.cache
+C:\GitHub\GenerateFile\GenFile\obj\Debug\net7.0\GenFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\GenerateFile\GenFile\obj\Debug\net7.0\GenFile.AssemblyInfoInputs.cache
+C:\GitHub\GenerateFile\GenFile\obj\Debug\net7.0\GenFile.AssemblyInfo.cs
+C:\GitHub\GenerateFile\GenFile\obj\Debug\net7.0\GenFile.csproj.CoreCompileInputs.cache
+C:\GitHub\GenerateFile\GenFile\obj\Debug\net7.0\GenFile.dll
+C:\GitHub\GenerateFile\GenFile\obj\Debug\net7.0\refint\GenFile.dll
+C:\GitHub\GenerateFile\GenFile\obj\Debug\net7.0\GenFile.pdb
+C:\GitHub\GenerateFile\GenFile\obj\Debug\net7.0\GenFile.genruntimeconfig.cache
+C:\GitHub\GenerateFile\GenFile\obj\Debug\net7.0\ref\GenFile.dll
